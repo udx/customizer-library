@@ -1,8 +1,9 @@
 {
-    "name"       : "devinsays/customizer-library",
+    "name"       : "udx/customizer-library",
     "description": "Customizer Library - A helpful library for working with the WordPress customizer.",
     "keywords"   : ["wordpress", "customizer"],
-    "homepage"   : "https://github.com/devinsays/customizer-library",
+    "homepage"   : "https://github.com/udx/customizer-library",
+    "version"    : "1.0.1",
     "license"    : "GPL-2.0+",
     "authors"    : [
         {
@@ -12,8 +13,8 @@
         }
     ],
     "support"    : {
-        "issues": "https://github.com/devinsays/customizer-library/issues",
-        "source": "https://github.com/devinsays/customizer-library"
+        "issues": "https://github.com/udx/customizer-library/issues",
+        "source": "https://github.com/udx/customizer-library"
     },
     "autoload" : {
         "files" : ["customizer-library.php"]

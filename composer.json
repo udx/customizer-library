@@ -3,7 +3,7 @@
     "description": "Customizer Library - A helpful library for working with the WordPress customizer.",
     "keywords"   : ["wordpress", "customizer"],
     "homepage"   : "https://github.com/udx/customizer-library",
-    "version"    : "1.0.1",
+    "version"    : "1.3.0",
     "license"    : "GPL-2.0+",
     "authors"    : [
         {
